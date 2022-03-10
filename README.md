@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anshik24
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Data Structure
+- 🌱 I’m currently learning Data Structure & algorithms
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me through my github account!
 
