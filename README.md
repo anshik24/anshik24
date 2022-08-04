@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anshik24
+- 👋 Hi, I’m @anshika singh
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Data Structure & algorithms
 - 💞️ I’m looking to collaborate on ...
